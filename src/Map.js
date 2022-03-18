@@ -5,7 +5,7 @@ const Map = (props) => {
   return (
     <GoogleMap
       defaultZoom={15}
-      defaultCenter={{ lat: 0.8276348040257075, lng: -77.65207111989355 }}
+      defaultCenter={{ lat: 0.8430453158654306, lng: -77.6645488387621 }}
     />
   );
 };
